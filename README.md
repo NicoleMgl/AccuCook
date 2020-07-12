@@ -15,7 +15,7 @@ npm run start
 * Babel-polyfill 6.26.0
 * Node.js
 * [Forkify API](https://forkify-api.herokuapp.com/)
-* [Fraction] (https://github.com/ekg/fraction.js/)
+* [Fraction](https://github.com/ekg/fraction.js/)
 * [Uniqid](https://github.com/adamhalasz/uniqid)
 
 ## Inspiration:
