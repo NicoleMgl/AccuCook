@@ -1,3 +1,4 @@
+![AccuCook Logo](/accucook-favicon-01.png)
 # Table of Contents 
 * [How to run](#Instructions)
 * [Technologies](#Technologies-used)
